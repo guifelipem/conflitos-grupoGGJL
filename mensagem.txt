@@ -1,2 +1,2 @@
 lua
-CopiarEditar
+Editando a linha com a branch conflito-guilherme
