@@ -1,2 +1,3 @@
 lua
 CopiarEditar
+Excluir e verificar 
